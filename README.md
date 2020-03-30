@@ -11,4 +11,4 @@ Hier findet ihr das style.css
 https://github.com/lmsSchool/htmlCss/blob/master/style.css
 
 
-![alt text](https://geekflare.com/wp-content/uploads/2019/12/css-gif.gif")
+![](css-gif.gif")
