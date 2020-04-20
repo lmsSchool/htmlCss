@@ -9,6 +9,9 @@
   function wetterFrosch() {alert("Heute wirds sonnig viellicht...");}
 </script>
 
+<script src="js/test.js"></script>
+
+<script src="js/datentypen.js"> </script>
 
 </head>
 
@@ -72,6 +75,36 @@
 <form>
   <input type="button" value="Wie wird das Wetter" onclick="wetterFrosch()">
 </form>
+
+<form>
+  <input type="button" value="neues Fenster öffnen" onclick="halloFromExtern()">
+</form>
+
+<h3>Datentypen</h3>
+<p>In JavaScript kennen wir auch Datentypen, 3 davon lernen wir nun kennen.</p>
+
+<ul>
+  <li>Number: var länge = 16;</li>
+  <li>String: var vorname = "John";</li>
+  <li>Objekt: x = {vorname:"Max" nachname:"Muster"};</li>
+</ul>
+
+<form>
+  <input type="button" value="Sag Länge" onclick="sagLaenge()">
+</form>
+
+<form>
+  <input type="button" value="Sag Vorname" onclick="sagVorname()">
+</form>
+
+<form>
+  <input type="button" value="Sag Vor und Nachname" onclick="sagVorNachname()">
+</form>
+
+<h3>Nachdatum fragen</h3>
+
+<button onclick="this.innerHTML=Date()">Wie spät ist es jetzt?</button>
+
 
 
 </body>

@@ -1,0 +1,1 @@
+function halloFromExtern() {alert("Hallo, du hast mich von Extern aufgerufen, super");}
