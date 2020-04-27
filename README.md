@@ -10,6 +10,10 @@ https://github.com/lmsSchool/htmlCss/blob/master/index.html
 Hier findet ihr das style.css
 https://github.com/lmsSchool/htmlCss/blob/master/style.css
 
+## javascript
+Hier findet ihr das javascript
+https://github.com/lmsSchool/htmlCss/tree/master/js
+
 
 ## Notes 
 
